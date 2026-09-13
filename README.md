@@ -235,3 +235,7 @@ The `dev` branch is the one where all contributions are merged before reaching `
 If you plan to propose a patch, please commit into the `dev` branch, or its own feature branch.
 Direct commit to `release` are not permitted.
 For more information, please read [CONTRIBUTING](CONTRIBUTING.md).
+
+## Reproducible platform builds
+
+See [glibc, musl and macOS build instructions](README.build.md) for pinned source revisions, exact scripts, tool requirements, local commands, CI reproduction and platform support boundaries.
